@@ -1,2 +1,6 @@
 # Harsh-Choudhary
-# Hi — I'm Harsh 👋  **Full-stack developer** — React | Node | MySQL   🔭 Working on: College Admission Portal   📫 Reach me: hc504360@example.com
+👋 Hi, I’m Harsh!  
+🌐 I love building web apps (PHP, MySQL, MERN stack)  
+📊 Exploring Data Analytics & AI (Power BI, NLP, ML)  
+📚 Currently working on admission systems & library management projects  
+✨ Always learning, always building!
